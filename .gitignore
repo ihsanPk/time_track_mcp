@@ -1,3 +1,6 @@
 Scripts/
 *.txt
 .venv
+
+__pycache__/
+*.db
